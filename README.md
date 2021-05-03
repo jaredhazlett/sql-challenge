@@ -1,2 +1,2 @@
 # sql-challenge
-Welcome to my SQL challenge. I upload multiple csvs to an SQL database and perform different search queries to compile and look at trends within our data. You'll find my Diagram, SQL queries and a readme within this respository. 
+Welcome to SQL employee database. This project uses postgreSQL to relate various tables. 
